@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanneshoher
 - 👀 I’m interested in datascience and tech.
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Haskell && Java
 - 📫 How to reach me - johannes252511@gmail.com
 
 <!---
